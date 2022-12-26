@@ -26,4 +26,4 @@ A list of awesome FOSS (free and open-source) chess assets:
 
 ## 🌐 Self-Hosted Websites
 
-- 🌐 [chesstempo](https://chesstempo.com): A chess server built with Temporal, an open-source real-time web framework.
+- 🌐 [chesstempo](https://github.com/sevein/chesstempo): A chess server built with Temporal, an open-source real-time web framework.
