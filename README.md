@@ -15,7 +15,7 @@ A list of awesome FOSS (free and open-source) chess assets:
 - 🌐 [listudy.org](https://listudy.org): A website for improving your chess game with spaced repetition, including a database of chess openings and tactics training.
 - 🌐 [chessinsights.org](https://chessinsights.org): A website for practicing blindfold chess and improving visualization skills.
 - 🌐 [chesstacticsgenerator.vitomd.com](https://chesstacticsgenerator.vitomd.com): A website that generates chess tactics based on your played games on lichess.
-- 🌐 [kfchess.com](https://kfchess.com): A website for playing chess online and accessing a variety of chess training resources.
+- 🌐 [kfchess.com](https://kfchess.com): A special chess variant
 
 ## 💻 Desktop Software
 
